@@ -129,5 +129,4 @@ Shanjai Chinnamma Reddy
 
 **Basant Kumar** — Business Analyst | Data & AI Analytics  
 MSc Business Analytics, Maynooth University  
-[LinkedIn](https://linkedin.com/in/basantsingh-) | 
-[GitHub](https://github.com/Basantsingh607)
+[LinkedIn](https://linkedin.com/in/basantsingh-) | [GitHub](https://github.com/basant-kumarr)
