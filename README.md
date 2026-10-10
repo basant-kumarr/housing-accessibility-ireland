@@ -1,14 +1,15 @@
 # Housing Accessibility in Ireland: a client project for Age Friendly Ireland
 
+<p align="center">
+  <img src="docs/images/hero.webp" width="100%" alt="Housing Accessibility: client consultancy for Age Friendly Ireland. Households affected projected from 16.94 percent in 2022 to 22.35 percent in 2050, about 580,000 people. Artwork from the portfolio: an older couple on a bench by a river, beside signs for health services, public transport, accessible cities and community inclusion.">
+</p>
+
 **How many Irish households will include someone who struggles with stairs, and what should national policy do about it?**
 
 MSc Business Analytics consultancy project, Maynooth University · CSO Census 2022 · population projections to 2050 · international policy benchmarking
 
 [**Live dashboard: The Rising Step**](https://age-friendly-ireland.netlify.app/) · [Dashboard source](https://github.com/basant-kumarr/ireland-stair-accessibility-dashboard) · [Portfolio](https://basant-kumar-portfoli.netlify.app/)
 
-<p align="center">
-  <img src="docs/images/dashboard.webp" width="100%" alt="Screenshot of The Rising Step dashboard. Headline: by 2050, more than one in five Irish households are projected to include someone experiencing stair-related mobility difficulty. Key figures: 22.35 percent of households, 580 thousand people, 66 percent growth since 2022, with a bar chart rising from 16.94 percent in 2022 to 22.35 percent in 2050.">
-</p>
 
 ---
 
@@ -64,6 +65,12 @@ International benchmarking, the recommendations and the executive presentation t
 - Adults aged **65 and over** account for almost all of the projected growth.
 - Older women report higher prevalence than older men in every age band.
 - The team's client summary also estimated **more than 100,000 additional affected households** by 2050 if policy does not change.
+
+### The Rising Step dashboard
+
+<p align="center">
+  <img src="docs/images/dashboard.webp" width="100%" alt="Screenshot of The Rising Step dashboard. Headline: by 2050, more than one in five Irish households are projected to include someone experiencing stair-related mobility difficulty. Key figures: 22.35 percent of households, 580 thousand people, 66 percent growth since 2022, with a bar chart rising from 16.94 percent in 2022 to 22.35 percent in 2050.">
+</p>
 
 ## International policy benchmarking
 
