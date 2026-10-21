@@ -8,7 +8,7 @@
 
 MSc Business Analytics consultancy project, Maynooth University · CSO Census 2022 · population projections to 2050 · international policy benchmarking
 
-[**Live dashboard: The Rising Step**](https://age-friendly-ireland.netlify.app/) · [Dashboard source](https://github.com/basant-kumarr/ireland-stair-accessibility-dashboard) · [Portfolio](https://basant-kumar-portfoli.netlify.app/)
+[**Live dashboard: The Rising Step**](https://age-friendly-ireland.netlify.app/) · [Dashboard source](https://github.com/basant-kumarr/ireland-stair-accessibility-dashboard) · [Portfolio](https://basant-kumar.netlify.app/)
 
 
 ---
@@ -120,4 +120,4 @@ The dashboard's source code lives in [ireland-stair-accessibility-dashboard](htt
 
 ---
 
-**Basant Kumar** · MSc Business Analytics, Maynooth University · [Portfolio](https://basant-kumar-portfoli.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/) · [GitHub](https://github.com/basant-kumarr)
+**Basant Kumar** · MSc Business Analytics, Maynooth University · [Portfolio](https://basant-kumar.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/) · [GitHub](https://github.com/basant-kumarr)
